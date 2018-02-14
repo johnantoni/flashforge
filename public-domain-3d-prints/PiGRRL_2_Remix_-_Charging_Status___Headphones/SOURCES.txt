@@ -1,0 +1,4 @@
+Sources for PiGRRL 2 Remix - Charging Status & Headphones
+
+PiGRRL 2 - Raspberry Pi Game Console (http://www.thingiverse.com/thing:1277483)
+Indicator light lens for Adafruit Powerboost 1000C (http://www.thingiverse.com/thing:1547131)
